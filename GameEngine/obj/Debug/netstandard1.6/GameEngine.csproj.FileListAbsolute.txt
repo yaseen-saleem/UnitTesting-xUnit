@@ -6,3 +6,4 @@ D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug
 D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
 D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
 D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
