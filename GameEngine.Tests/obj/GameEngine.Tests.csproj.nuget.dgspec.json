@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
+    "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine.Tests\\GameEngine.Tests.csproj": {
+    "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine.Tests\\GameEngine.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine.Tests\\GameEngine.Tests.csproj",
         "projectName": "GameEngine.Tests",
-        "projectPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine.Tests\\GameEngine.Tests.csproj",
         "packagesPath": "C:\\Users\\saleeyas\\.nuget\\packages\\",
-        "outputPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine.Tests\\obj\\",
+        "outputPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj": {
-                "projectPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj"
+              "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj": {
+                "projectPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj": {
+    "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj",
+        "projectUniqueName": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj",
         "projectName": "GameEngine",
-        "projectPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj",
+        "projectPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj",
         "packagesPath": "C:\\Users\\saleeyas\\.nuget\\packages\\",
-        "outputPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\obj\\",
+        "outputPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

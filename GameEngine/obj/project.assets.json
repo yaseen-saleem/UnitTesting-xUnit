@@ -4480,11 +4480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj",
+      "projectUniqueName": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj",
       "projectName": "GameEngine",
-      "projectPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\GameEngine.csproj",
+      "projectPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\GameEngine.csproj",
       "packagesPath": "C:\\Users\\saleeyas\\.nuget\\packages\\",
-      "outputPath": "D:\\Yaseen\\Working_Area\\Self-Training\\UnitTesting\\GameEngine\\GameEngine\\obj\\",
+      "outputPath": "C:\\Users\\saleeyas\\Desktop\\checkGitignore\\UnitTesting-xUnit\\GameEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
