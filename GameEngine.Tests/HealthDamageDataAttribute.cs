@@ -9,6 +9,7 @@ namespace GameEngine.Tests
 {
     public class HealthDamageDataAttribute : DataAttribute
     {
+        //test data
         public override IEnumerable<object[]> GetData(MethodInfo testMethod)
         {
             string[] csvLines = File.ReadAllLines("TestData.csv");
