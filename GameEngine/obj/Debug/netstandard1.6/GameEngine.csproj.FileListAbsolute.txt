@@ -1,0 +1,8 @@
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+D:\Yaseen\Working_Area\Self-Training\UnitTesting\GameEngine\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb

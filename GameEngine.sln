@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine\GameEngine.csproj", "{44A389AB-95C4-4011-A109-89EEEE7C1578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine.Tests", "GameEngine.Tests\GameEngine.Tests.csproj", "{FAC70970-598B-42F6-95FD-78140F18B357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A389AB-95C4-4011-A109-89EEEE7C1578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A389AB-95C4-4011-A109-89EEEE7C1578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A389AB-95C4-4011-A109-89EEEE7C1578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A389AB-95C4-4011-A109-89EEEE7C1578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC70970-598B-42F6-95FD-78140F18B357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC70970-598B-42F6-95FD-78140F18B357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC70970-598B-42F6-95FD-78140F18B357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC70970-598B-42F6-95FD-78140F18B357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09F6C0E-0F24-413E-93E9-9B1730F0204F}
+	EndGlobalSection
+EndGlobal
