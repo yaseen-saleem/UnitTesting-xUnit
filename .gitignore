@@ -1,6 +1,9 @@
 /file1.txt
 .git
-.vs/
-.vs/*
-.vs/GameEngine/
-.vs\GameEngine\
+/.vs/
+/.vs/*
+/.vs/GameEngine/
+/.vs/GameEngine/v16/
+/.idea/
+.abc
+.gitattributes
